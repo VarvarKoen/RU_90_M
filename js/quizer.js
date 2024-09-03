@@ -1050,11 +1050,6 @@ let ru_1990_m = [
 			song : 'Качка'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
-			group : 'Darude',
-			song : 'Sandstorm'
-		},
-		{
 			pack : RU_1990_M_PACK_2,
 			group : 'Владимир Маркин',
 			song : "Я готов целовать песок"
