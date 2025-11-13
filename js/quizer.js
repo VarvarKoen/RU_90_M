@@ -593,17 +593,20 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Дмитрий Маликов',
-			song : 'Ты одна ты такая'
+			song : 'Ты одна ты такая',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Дмитрий Маликов',
-			song : 'Все вернется'
+			song : 'Все вернется',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Дмитрий Маликов',
-			song : 'Птицелов'
+			song : 'Птицелов',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
