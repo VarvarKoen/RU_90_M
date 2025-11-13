@@ -357,7 +357,7 @@ let ru_1990_m = [
 			pack : RU_1990_M_PACK_2,
 			group : 'Кай Метов',
 			song : 'Position №2',
-			state: ' по Каю Метову'
+			ignore: true
 		},
 		{
 			pack : RU_1990_M_PACK_2,
@@ -371,19 +371,22 @@ let ru_1990_m = [
 			group : 'Профессор Лебединский',
 			song : 'Бегут года',
 			state: ' по Профессору Лебединскому (ft. Русский Размер)',
-			shorten: 'Лебединский'
+			shorten: 'Лебединский',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_2,
 			group : 'Ярослав Евдокимов',
-			song : 'Фантазёр'
+			song : 'Фантазёр',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_2,
 			group : 'Сергей Минаев',
 			song : '22 притопа',
 			state: ' по Минаеву',
-			shorten: 'Минаев'
+			shorten: 'Минаев',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -393,7 +396,8 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_2,
 			group : 'Юрий Шатунов',
-			song : 'Розовый вечер'
+			song : 'Розовый вечер',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_2,
@@ -497,7 +501,8 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Александр Серов',
-			song : 'Я люблю тебя до слёз'
+			song : 'Я люблю тебя до слёз',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_2,
@@ -517,17 +522,20 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_2,
 			group : 'Игорь Николаев',
-			song : 'Выпьем за любовь'
+			song : 'Выпьем за любовь',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_2,
 			group : 'Игорь Николаев',
-			song : 'Такси (ft Наташа Королёва)'
+			song : 'Такси (ft Наташа Королёва)',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_2,
 			group : 'Игорь Николаев',
-			song : 'Старая Мельница'
+			song : 'Старая Мельница',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_2,
@@ -552,17 +560,20 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Андрей Губин',
-			song : 'Ночь'
+			song : 'Ночь',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Андрей Губин',
-			song : 'Без тебя'
+			song : 'Без тебя',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Андрей Губин',
-			song : 'Милая моя далеко'
+			song : 'Милая моя далеко',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -597,12 +608,14 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Шура',
-			song : 'Холодная луна'
+			song : 'Холодная луна',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Шура',
-			song : 'Don-don-don'
+			song : 'Don-don-don',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -617,12 +630,14 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Евгений Белоусов',
-			song : 'Девчонка-девчоночка'
+			song : 'Девчонка-девчоночка',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Евгений Белоусов',
-			song : 'Алёшка'
+			song : 'Алёшка',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -662,12 +677,14 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Владимир Пресняков',
-			song : 'Стюардесса по имени Жанна'
+			song : 'Стюардесса по имени Жанна',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Владимир Пресняков',
-			song : 'Замок из дождя'
+			song : 'Замок из дождя',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -687,12 +704,14 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Игорь Корнелюк',
-			song : 'Дожди'
+			song : 'Дожди',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Игорь Корнелюк',
-			song : 'Пора домой'
+			song : 'Пора домой',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_2,
@@ -722,7 +741,8 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Валерий Меладзе',
-			song : 'Девушки из высшего общества'
+			song : 'Девушки из высшего общества',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -922,7 +942,8 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_2,
 			group : 'Олег Пахомов',
-			song : 'Белые лебеди'
+			song : 'Белые лебеди',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_2,
@@ -947,7 +968,8 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Валерий Меладзе',
-			song : 'Самба белого мотылька'
+			song : 'Самба белого мотылька',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_2,
@@ -962,7 +984,8 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Шура',
-			song : 'Отшумели летние дожди'
+			song : 'Отшумели летние дожди',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_2,
@@ -1002,7 +1025,8 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Валерий Меладзе',
-			song : 'Разведи огонь'
+			song : 'Разведи огонь',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -1032,7 +1056,8 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Александр Айвазов',
-			song : "Бабочка-луна"
+			song : "Бабочка-луна",
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
