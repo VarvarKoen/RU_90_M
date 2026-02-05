@@ -1352,6 +1352,7 @@ let ru_1990_m_1 =	ru_1990_m.filter(item => item.pack == 1);
 let ru_1990_m_2 =	ru_1990_m.filter(item => item.pack == 2);
 let ru_1990_m_3 =	ru_1990_m.filter(item => item.pack == 3);
 let ru_1990_m_4 =	ru_1990_m.filter(item => item.pack == 4);
+let ru_1990_m_5 =	ru_1990_m.filter(item => item.pack == 5);
 
 
 let music = [
@@ -1376,6 +1377,10 @@ let music = [
 				{
 					arr: ru_1990_m_4,
 					name: 'RU 1990s Male: Chanson',
+				},
+				{
+					arr: ru_1990_m_5,
+					name: 'RU 1990s Male: One Hit Wonders',
 				}
 			]
 	}
