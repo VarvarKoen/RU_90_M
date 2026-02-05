@@ -345,12 +345,14 @@ function load(){
 const ru_1990_m_icon = [
 	'easy',
 	'medium',
-	'hard'
+	'hard',
+	'pop'
 ];
 
 const RU_1990_M_PACK_1 = 1;
 const RU_1990_M_PACK_2 = 2;
 const RU_1990_M_PACK_3 = 3;
+const RU_1990_M_PACK_4 = 4;
 
 let ru_1990_m = [
 		{
@@ -407,9 +409,9 @@ let ru_1990_m = [
 			shorten: 'Глызин'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
-			group : 'Михаил Шифутинский',
-			song : '3-е Сентября'
+			pack : RU_1990_M_PACK_4,
+			group : 'Михаил Шуфутинский',
+			song : '3-е Сентября (1993)'
 		},
 		{
 			pack : RU_1990_M_PACK_2,
@@ -424,9 +426,9 @@ let ru_1990_m = [
 			song : 'Кого не стоило бы ждать'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
-			group : 'Михаил Шифутинский',
-			song : 'Пальма де Майорка'
+			pack : RU_1990_M_PACK_4,
+			group : 'Михаил Шуфутинский',
+			song : 'Пальма де Майорка (1997)'
 		},
 		{
 			pack : RU_1990_M_PACK_2,
@@ -479,24 +481,25 @@ let ru_1990_m = [
 			song : 'Далеко бежит дорога'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_4,
 			group : 'Михаил Круг',
-			song : 'Владимирский централ'
+			song : 'Владимирский централ (1999)'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_4,
 			group : 'Михаил Круг',
-			song : 'Кольщик'
+			song : 'Кольщик (1994)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Стас Михайлов',
+			song : 'Тёмные глаза (1997)'
 		},
 		{
 			pack : RU_1990_M_PACK_2,
 			group : 'Стас Михайлов',
-			song : 'Тёмные глаза'
-		},
-		{
-			pack : RU_1990_M_PACK_2,
-			group : 'Стас Михайлов',
-			song : 'Всё для тебя'
+			song : 'Всё для тебя (2007)',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -765,17 +768,19 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Григорий Лепс',
-			song : 'Рюмка водки на столе'
+			song : 'Рюмка водки на столе (2002)',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Григорий Лепс',
-			song : 'Самый лучший день'
+			song : 'Самый лучший день (2011)',
+			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_1,
+			pack : RU_1990_M_PACK_4,
 			group : 'Григорий Лепс',
-			song : 'Натали'
+			song : 'Натали (1995)'
 		},
 		{
 			pack : RU_1990_M_PACK_3,
@@ -823,17 +828,17 @@ let ru_1990_m = [
 			song : 'Снег'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_4,
 			group : 'Сергей Крылов',
 			song : 'Девочка'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_4,
 			group : 'Сергей Крылов',
 			song : 'Осень-золотые листопады (ft Александр Добронравов)'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_4,
 			group : 'Сергей Крылов',
 			song : 'Короче, я звоню из Сочи'
 		},
@@ -1106,12 +1111,203 @@ let ru_1990_m = [
 			pack : RU_1990_M_PACK_2,
 			group : 'Владимир Маркин',
 			song : "Домовой (1990)"
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Александр Кальянов',
+			song : "Таганка (1990)"
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Александр Кальянов',
+			song : "Всё, что было (1999)"
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Александр Кальянов',
+			song : "Хрустнули огурчиком (1999)"
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Александр Новиков',
+			song : "Шансоньетка (1995)"
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Александр Новиков',
+			song : "Помнишь, девочка? (1996)"
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Александр Новиков',
+			song : "Вези меня, извозчик (1991)"
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Александр Розенбаум',
+			song : "Ау (1996)"
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Александр Розенбаум',
+			song : "Гоп-стоп (1993)"
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Александр Розенбаум',
+			song : "Братан (1999)"
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Беломорканал',
+			song : "Разведённые мосты (1999)"
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Виктор Королев',
+			song : "Пьяная Вишня (1998)"
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Вилли Токарев',
+			song : "Массаж (1995)"
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Вилли Токарев',
+			song : "Водочка (1993)"
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Григорий Лепс',
+			song : 'Храни Вас Бог (1995)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Григорий Лепс',
+			song : 'Не печалься, девочка моя (1995)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Ефрем Амирамов',
+			song : 'Молодая (1994)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Иван Кучин',
+			song : 'В таверне (1997)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Иван Кучин',
+			song : 'Пройдут года (1996)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Иван Кучин',
+			song : 'Обыкновенная (1998)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Лесоповал',
+			song : 'Первый срок (1996)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Лесоповал',
+			song : 'Я куплю тебе дом (1993)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Лесоповал',
+			song : 'Столыпинский вагон (1992)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Михаил Гулько',
+			song : 'Окурочек (1993)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Михаил Гулько',
+			song : 'Мурка (1993)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Михаил Гулько',
+			song : 'Не надо грустить, господа (1995)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Михаил Круг',
+			song : 'Зек-рэп (1995)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Михаил Шелег',
+			song : 'За тебя (За твои глаза карие) (1998)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Михаил Шелег',
+			song : 'Америка, Европа (1997)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Михаил Шелег',
+			song : 'Тихонечко так (1999)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Михаил Шуфутинский',
+			song : 'За милых дам (1996)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Петлюра',
+			song : 'Платье белое (1996)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Петлюра',
+			song : 'Скорый поезд (1996)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Сергей Наговицын',
+			song : 'Городские встречи (1993)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Сергей Наговицын',
+			song : 'Потерянный край (1999)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Сергей Наговицын',
+			song : 'Улица (1998)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Сергей Челобанов',
+			song : 'Не обещай (1993)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Стас Михайлов',
+			song : 'Разлука (1997)'
+		},
+		{
+			pack : RU_1990_M_PACK_4,
+			group : 'Стас Михайлов',
+			song : 'Мираж (1997)'
 		}
 ];
 
 let ru_1990_m_1 =	ru_1990_m.filter(item => item.pack == 1);
 let ru_1990_m_2 =	ru_1990_m.filter(item => item.pack == 2);
 let ru_1990_m_3 =	ru_1990_m.filter(item => item.pack == 3);
+let ru_1990_m_4 =	ru_1990_m.filter(item => item.pack == 4);
 
 
 let music = [
@@ -1132,6 +1328,10 @@ let music = [
 				{
 					arr: ru_1990_m_3,
 					name: 'RU 1990s Male: Hard',
+				},
+				{
+					arr: ru_1990_m_4,
+					name: 'RU 1990s Male: Chanson',
 				}
 			]
 	}
@@ -1145,6 +1345,7 @@ function map_songs(){
 	$('#mirror').hide();
 	$('#map').hide();
 	$('#package_content').hide();
+	$('#sec_15_hist').show();
 	$('#mapping_content').show();
 	toggleLearn();
 	for(var j=0; j < music.length; j++){
@@ -1483,6 +1684,15 @@ function back_to_browser(){
 function back_to_current_pack(){
 	back = back_to_browser;
 	$('#mapping_content').hide();
+	$('#sec_15_hist').hide();
+	song_stop();
 	$('#map').show();
 	package_num(pack_num);
+}
+
+function song_stop() {
+	if(audio){
+		audio.pause();
+		audio = null;
+	}
 }
