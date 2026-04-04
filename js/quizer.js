@@ -825,17 +825,17 @@ let ru_1990_m = [
 			song : 'Снег'
 		},
 		{
-			pack : RU_1990_M_PACK_4,
+			pack : RU_1990_M_PACK_3,
 			group : 'Сергей Крылов',
 			song : 'Девочка'
 		},
 		{
-			pack : RU_1990_M_PACK_4,
+			pack : RU_1990_M_PACK_3,
 			group : 'Сергей Крылов',
 			song : 'Осень-золотые листопады (ft Александр Добронравов)'
 		},
 		{
-			pack : RU_1990_M_PACK_4,
+			pack : RU_1990_M_PACK_3,
 			group : 'Сергей Крылов',
 			song : 'Короче, я звоню из Сочи'
 		},
