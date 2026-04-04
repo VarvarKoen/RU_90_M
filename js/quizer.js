@@ -1104,7 +1104,7 @@ let ru_1990_m = [
 			song : "Не улетай"
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_5,
 			group : 'Павел Кашин',
 			song : "Город (1992)"
 		},
