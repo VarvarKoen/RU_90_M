@@ -393,7 +393,8 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Леонид Агутин',
-			song : 'Хоп-хей Лала Лэй'
+			song : 'Хоп-хей Лала Лэй',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_2,
@@ -419,7 +420,8 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Леонид Агутин',
-			song : 'Кого не стоило бы ждать'
+			song : 'Кого не стоило бы ждать',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_4,
@@ -464,17 +466,20 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_2,
 			group : 'Егор Летов',
-			song : 'Моя оборона'
+			song : 'Моя оборона',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_2,
 			group : 'Егор Летов',
-			song : 'Всё идёт по плану'
+			song : 'Всё идёт по плану',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_2,
 			group : 'Егор Летов',
-			song : 'Далеко бежит дорога'
+			song : 'Далеко бежит дорога',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_4,
@@ -643,27 +648,30 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Олег Газманов',
-			song : 'Есаул'
+			song : 'Есаул',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Олег Газманов',
-			song : 'Морячка'
+			song : 'Морячка',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Олег Газманов',
-			song : 'Танцуй, пока молодой'
+			song : 'Танцуй, пока молодой',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Валерий Леонтьев',
-			song : 'Танго разбитых сердец'
+			song : 'Танго разбитых сердец (1995)'
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Валерий Леонтьев',
-			song : 'Девять хризантем'
+			song : 'Девять хризантем (1998)'
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -782,32 +790,38 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_3,
 			group : 'Дельфин',
-			song : 'Любовь'
+			song : 'Любовь',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_3,
 			group : 'Дельфин',
-			song : 'Дверь'
+			song : 'Дверь',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_3,
 			group : 'Дельфин',
-			song : 'Я буду жить'
+			song : 'Я буду жить',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_3,
 			group : 'Михей',
-			song : 'Сука Любовь (ft Джуманджи)'
+			song : 'Сука Любовь (ft Джуманджи)',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_3,
 			group : 'Михей',
-			song : 'Мы Дети Большого Города (ft Джуманджи)'
+			song : 'Мы Дети Большого Города (ft Джуманджи)',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_3,
 			group : 'Михей',
-			song : 'Мы поплывем по волнам (ft Джуманджи)'
+			song : 'Мы поплывем по волнам (ft Джуманджи)',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_3,
@@ -907,7 +921,7 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_3,
 			group : 'Вячеслав Быков',
-			song : 'Девочка Моя'
+			song : 'Девочка моя'
 		},
 		{
 			pack : RU_1990_M_PACK_3,
@@ -1071,7 +1085,8 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Леонид Агутин',
-			song : 'Ты вернешься когда-нибудь снова'
+			song : 'Ты вернешься когда-нибудь снова',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_2,
