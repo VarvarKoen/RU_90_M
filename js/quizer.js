@@ -343,9 +343,7 @@ function load(){
 
 // RU songs
 const ru_1990_m_icon = [
-	'easy',
-	'medium',
-	'hard',
+	'ru_pop',
 	'pop',
 	'pop_2'
 ];
@@ -358,18 +356,18 @@ const RU_1990_M_PACK_5 = 5;
 
 let ru_1990_m = [
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Кай Метов',
 			song : 'Position №2',
 			ignore: true
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Сергей Васюта',
 			song : 'На белом покрывале января (ft. Сладкий Сон)'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Профессор Лебединский',
 			song : 'Бегут года',
 			state: ' по Профессору Лебединскому (ft. Русский Размер)',
@@ -377,13 +375,13 @@ let ru_1990_m = [
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Ярослав Евдокимов',
 			song : 'Фантазёр',
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Сергей Минаев',
 			song : '22 притопа',
 			state: ' по Минаеву',
@@ -397,13 +395,13 @@ let ru_1990_m = [
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Юрий Шатунов',
 			song : 'Розовый вечер',
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : "Алексей Глызин",
 			song : 'Зимний сад'
 		},
@@ -413,7 +411,7 @@ let ru_1990_m = [
 			song : '3-е Сентября (1993)'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Сергей Васюта',
 			song : 'Снег на розах (ft. Сладкий Сон)'
 		},
@@ -434,49 +432,49 @@ let ru_1990_m = [
 			song : 'Незаконченный роман (ft Ирина Аллегрова)'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Вадим Казаченко',
 			song : 'Белая метелица'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Вадим Казаченко',
 			song : 'Больно мне, больно'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Вадим Казаченко',
 			song : 'Жёлтые розы'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Игорь Тальков',
 			song : 'Моя любовь'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Игорь Тальков',
 			song : 'Я вернусь'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Игорь Тальков',
 			song : 'Чистые пруды'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Егор Летов',
 			song : 'Моя оборона',
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Егор Летов',
 			song : 'Всё идёт по плану',
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Егор Летов',
 			song : 'Далеко бежит дорога',
 			ignore : true
@@ -497,7 +495,7 @@ let ru_1990_m = [
 			song : 'Тёмные глаза (1997)'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Стас Михайлов',
 			song : 'Всё для тебя (2007)',
 			ignore : true
@@ -509,54 +507,54 @@ let ru_1990_m = [
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Андрей Державин',
 			song : 'Не плачь, Алиса (1991)'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Андрей Державин',
 			song : 'Чужая свадьба (1991)'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Андрей Державин',
 			song : 'Песня о первой любви (1993)'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Игорь Николаев',
 			song : 'Выпьем за любовь (1995)'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Игорь Николаев',
 			song : 'Такси (ft Наташа Королёва)',
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Игорь Николаев',
 			song : 'Старая Мельница',
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Mr Credo',
 			song : 'Медляк'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Mr Credo',
 			song : 'Воздушный шар'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Оскар',
 			song : 'Бег По Острию Ножа'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Оскар',
 			song : 'Между мной и тобой'
 		},
@@ -723,17 +721,17 @@ let ru_1990_m = [
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Аркадий Укупник',
 			song : 'Я на тебе никогда не женюсь'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Аркадий Укупник',
 			song : 'Сим-Сим'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Гарик Сукачёв',
 			song : 'Моя бабушка курит трубку (2002)',
 			ignore : true
@@ -788,118 +786,118 @@ let ru_1990_m = [
 			song : 'Натали (1995)'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Дельфин',
 			song : 'Любовь',
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Дельфин',
 			song : 'Дверь',
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Дельфин',
 			song : 'Я буду жить',
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Михей',
 			song : 'Сука Любовь (ft Джуманджи)',
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Михей',
 			song : 'Мы Дети Большого Города (ft Джуманджи)',
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Михей',
 			song : 'Мы поплывем по волнам (ft Джуманджи)',
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Николай Носков',
 			song : 'Паранойя'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Николай Носков',
 			song : 'Это здорово'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Николай Носков',
 			song : 'Снег'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Сергей Крылов',
 			song : 'Девочка'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Сергей Крылов',
 			song : 'Осень-золотые листопады (ft Александр Добронравов)'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Сергей Крылов',
 			song : 'Короче, я звоню из Сочи'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Николай Трубач',
 			song : 'Научись играть на гитаре'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Николай Трубач',
 			song : 'Пять минут'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Борис Моисеев',
 			song : 'Голубая луна (ft Николай Трубач)'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Николай Трубач',
 			song : 'Адреналин'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Найк Борзов',
 			song : 'Лошадка'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Найк Борзов',
 			song : 'Верхом на звезде'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Найк Борзов',
 			song : 'Три слова'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Сергей Чумаков',
 			song : 'Жених'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Сергей Чумаков',
 			song : 'От весны до весны'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Сергей Чумаков',
 			song : 'Гадюка'
 		},
@@ -909,80 +907,80 @@ let ru_1990_m = [
 			song : 'Подождём (1998)'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Вячеслав Быков',
 			song : 'Любимая моя'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Вячеслав Быков',
 			song : 'Я прихожу к тебе когда город спит'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Вячеслав Быков',
 			song : 'Девочка моя'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Игорь Саруханов',
 			song : 'Скрипка-лиса'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Игорь Саруханов',
 			song : 'Желаю тебе'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Александр Буйнов',
 			song : 'Падают листья'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Александр Буйнов',
 			song : 'Капитан Каталкин'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Александр Буйнов',
 			song : 'Шансоньетка (ft Ирина Аллегрова)'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Максим Фадеев',
 			song : 'Беги по небу (1997)'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Витас',
 			song : 'Опера 2 (2001)',
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Олег Пахомов',
 			song : 'Белые лебеди',
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Александр Иванов',
 			song : 'Боже, какой пустяк (1997)'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Александр Иванов',
 			song : 'Пуля (2022)',
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Александр Иванов',
 			song : 'Моя неласковая русь (1997)'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Гарик Сукачёв',
 			song : 'За окошком месяц май (1996)'
 		},
@@ -993,12 +991,12 @@ let ru_1990_m = [
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Алексей Глызин',
 			song : 'Письма издалека'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Алексей Глызин',
 			song : 'Пепел любви'
 		},
@@ -1009,7 +1007,7 @@ let ru_1990_m = [
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Александр Градский',
 			song : 'Песня без названия'
 		},
@@ -1019,27 +1017,27 @@ let ru_1990_m = [
 			song : 'Кaждый xoчeт любить'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Никита',
 			song : 'Улетели навсегда'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Никита',
 			song : 'Однажды'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Никита',
 			song : 'С неба ты сошла'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Игорь Саруханов',
 			song : 'Парень с гитарой'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Mr Credo',
 			song : 'Lambada'
 		},
@@ -1062,17 +1060,17 @@ let ru_1990_m = [
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Борис Моисеев',
 			song : "Звёздочка"
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Борис Моисеев',
 			song : "Чёрный бархат"
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Оскар',
 			song : "Паноптикум"
 		},
@@ -1089,7 +1087,7 @@ let ru_1990_m = [
 			ignore : true
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Александр Барыкин',
 			song : "За той рекой (1996)"
 		},
@@ -1099,22 +1097,22 @@ let ru_1990_m = [
 			song : 'Качка'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Владимир Маркин',
 			song : "Я готов целовать песок (1991)"
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Вадим Усланов',
 			song : "Танцы на воде"
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Вадим Усланов',
 			song : "Ты сделана из огня"
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Вадим Усланов',
 			song : "Не улетай"
 		},
@@ -1124,7 +1122,7 @@ let ru_1990_m = [
 			song : "Город (1992)"
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Владимир Маркин',
 			song : "Домовой (1990)"
 		},
@@ -1319,17 +1317,17 @@ let ru_1990_m = [
 			song : 'Мираж (1997)'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Максим Фадеев',
 			song : 'Сестричка (1997)'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Вадим Байков',
 			song : 'Золотая рыбка (1997)'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Вадим Байков',
 			song : 'На Ордынке (1997)'
 		},
@@ -1349,12 +1347,12 @@ let ru_1990_m = [
 			song : 'Дорогая женщина (1995)'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Игорь Силиверстов',
 			song : 'Шпана (1990)'
 		},
 		{
-			pack : RU_1990_M_PACK_3,
+			pack : RU_1990_M_PACK_1,
 			group : 'Игорь Силиверстов',
 			song : 'Санта Лючия (1991)'
 		},
@@ -1379,12 +1377,12 @@ let ru_1990_m = [
 			song : 'Ушаночка (1992)'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Игорь Николаев',
 			song : 'Малиновое вино (1993)'
 		},
 		{
-			pack : RU_1990_M_PACK_2,
+			pack : RU_1990_M_PACK_1,
 			group : 'Игорь Николаев',
 			song : 'Человек Влюблённый В Сахалин (1998)'
 		},
