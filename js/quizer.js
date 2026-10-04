@@ -1419,15 +1419,7 @@ let music = [
 		packs: [
 				{
 					arr: ru_1990_m_1,
-					name: 'RU 1990s Male: Easy',
-				},
-				{
-					arr: ru_1990_m_2,
-					name: 'RU 1990s Male: Medium',
-				},
-				{
-					arr: ru_1990_m_3,
-					name: 'RU 1990s Male: Hard',
+					name: 'RU 1990s Male: Pop',
 				},
 				{
 					arr: ru_1990_m_4,
