@@ -673,12 +673,14 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Валерий Леонтьев',
-			song : 'Танго разбитых сердец (1995)'
+			song : 'Танго разбитых сердец (1995)',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Валерий Леонтьев',
-			song : 'Девять хризантем (1998)'
+			song : 'Девять хризантем (1998)',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -906,7 +908,7 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Сергей Чумаков',
-			song : 'Жених'
+			song : 'Жених (1990)'
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -1004,7 +1006,8 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Гарик Сукачёв',
-			song : 'За окошком месяц май (1996)'
+			song : 'За окошком месяц май (1996)',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -1039,7 +1042,8 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Валерий Леонтьев',
-			song : 'Кaждый xoчeт любить'
+			song : 'Кaждый xoчeт любить',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
