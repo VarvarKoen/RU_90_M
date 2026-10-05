@@ -403,7 +403,8 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : "Алексей Глызин",
-			song : 'Зимний сад'
+			song : 'Зимний сад',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_4,
@@ -509,17 +510,20 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Андрей Державин',
-			song : 'Не плачь, Алиса (1991)'
+			song : 'Не плачь, Алиса (1991)',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Андрей Державин',
-			song : 'Чужая свадьба (1991)'
+			song : 'Чужая свадьба (1991)',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Андрей Державин',
-			song : 'Песня о первой любви (1993)'
+			song : 'Песня о первой любви (1993)',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -552,12 +556,14 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Оскар',
-			song : 'Бег По Острию Ножа'
+			song : 'Бег По Острию Ножа',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Оскар',
-			song : 'Между мной и тобой'
+			song : 'Между мной и тобой',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -625,12 +631,14 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Евгений Осин',
-			song : 'Иволга'
+			song : 'Иволга',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Евгений Осин',
-			song : 'Попутчица'
+			song : 'Попутчица',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -697,17 +705,20 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Филипп Киркоров',
-			song : 'Бегущая по волнам'
+			song : 'Бегущая по волнам (1990)',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Филипп Киркоров',
-			song : 'Зайка моя'
+			song : 'Зайка моя',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Филипп Киркоров',
-			song : 'Мышь'
+			song : 'Мышь',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -724,12 +735,14 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Аркадий Укупник',
-			song : 'Я на тебе никогда не женюсь'
+			song : 'Я на тебе никогда не женюсь',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Аркадий Укупник',
-			song : 'Сим-Сим'
+			song : 'Сим-Сим',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -865,7 +878,7 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Борис Моисеев',
-			song : 'Голубая луна (ft Николай Трубач)'
+			song : 'Голубая луна (ft Николай Трубач) (1997)'
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -875,17 +888,20 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Найк Борзов',
-			song : 'Лошадка'
+			song : 'Лошадка',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Найк Борзов',
-			song : 'Верхом на звезде'
+			song : 'Верхом на звезде',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Найк Борзов',
-			song : 'Три слова'
+			song : 'Три слова',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -999,12 +1015,14 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Алексей Глызин',
-			song : 'Письма издалека'
+			song : 'Письма издалека',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Алексей Глызин',
-			song : 'Пепел любви'
+			song : 'Пепел любви',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -1026,17 +1044,20 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Никита',
-			song : 'Улетели навсегда'
+			song : 'Улетели навсегда',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Никита',
-			song : 'Однажды'
+			song : 'Однажды',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Никита',
-			song : 'С неба ты сошла'
+			song : 'С неба ты сошла',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -1069,17 +1090,18 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Борис Моисеев',
-			song : "Звёздочка"
+			song : "Звёздочка (1999)"
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Борис Моисеев',
-			song : "Чёрный бархат"
+			song : "Чёрный бархат (1999)"
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Оскар',
-			song : "Паноптикум"
+			song : "Паноптикум",
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -1101,7 +1123,8 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Евгений Осин',
-			song : 'Качка'
+			song : 'Качка',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -1413,6 +1436,21 @@ let ru_1990_m = [
 			pack : RU_1990_M_PACK_5,
 			group : 'Виктор Чайка',
 			song : 'Мона Лиза (1993)'
+		},
+		{
+			pack : RU_1990_M_PACK_1,
+			group : 'Филипп Киркоров',
+			song : 'Марина (1993)'
+		},
+		{
+			pack : RU_1990_M_PACK_1,
+			group : 'Филипп Киркоров',
+			song : 'Атлантида (1992)'
+		},
+		{
+			pack : RU_1990_M_PACK_1,
+			group : 'Филипп Киркоров',
+			song : 'Посмотри какое лето (1994)'
 		}
 ];
 
