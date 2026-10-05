@@ -541,12 +541,13 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Mr Credo',
-			song : 'Медляк'
+			song : 'Медляк (2002)',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Mr Credo',
-			song : 'Воздушный шар'
+			song : 'Воздушный шар (1998)'
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -934,17 +935,20 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Александр Буйнов',
-			song : 'Падают листья'
+			song : 'Падают листья',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Александр Буйнов',
-			song : 'Капитан Каталкин'
+			song : 'Капитан Каталкин',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Александр Буйнов',
-			song : 'Шансоньетка (ft Ирина Аллегрова)'
+			song : 'Шансоньетка (ft Ирина Аллегрова)',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -966,7 +970,8 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Александр Иванов',
-			song : 'Боже, какой пустяк (1997)'
+			song : 'Боже, какой пустяк (1997)',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -977,7 +982,8 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Александр Иванов',
-			song : 'Моя неласковая русь (1997)'
+			song : 'Моя неласковая русь (1997)',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -1009,7 +1015,8 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Александр Градский',
-			song : 'Песня без названия'
+			song : 'Песня без названия',
+			ignore : true
 		},
 		{
 			pack : RU_1990_M_PACK_1,
@@ -1039,7 +1046,7 @@ let ru_1990_m = [
 		{
 			pack : RU_1990_M_PACK_1,
 			group : 'Mr Credo',
-			song : 'Lambada'
+			song : 'Lambada (1997)'
 		},
 		{
 			pack : RU_1990_M_PACK_1,
